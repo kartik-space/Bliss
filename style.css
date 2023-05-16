@@ -325,3 +325,13 @@ header .buttons i{
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
+
+.uil-import:before {
+  content: '\eb36';
+  margin-top: 6px;
+}
+.uil-times:before {
+  content: '\e9b8';
+  margin-top: 6px;
+}
