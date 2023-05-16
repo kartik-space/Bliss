@@ -219,13 +219,14 @@ header .buttons i{
   cursor: pointer;
   text-align: center;
   line-height: 40px;
-  background: #8a6cff;
+  background: rgb(32, 30, 30);
   font-size: 1.2rem;
   display: inline-block;
+  border-radius: 20px;
 }
 .buttons i:last-child{
   margin-left: 10px;
-  background: #6c757d;
+  background: rgb(32, 30, 30);
 }
 .preview-img{
   display: flex;
@@ -329,9 +330,9 @@ header .buttons i{
 
 .uil-import:before {
   content: '\eb36';
-  margin-top: 6px;
+  margin-top: 8px;
 }
 .uil-times:before {
   content: '\e9b8';
-  margin-top: 6px;
+  margin-top: 8px;
 }
